@@ -73,11 +73,6 @@ tiingo_fetcher/
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it.
-
----
-
 ## ⭐ Support
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
